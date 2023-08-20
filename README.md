@@ -12,9 +12,7 @@
 
 <p align="left">📚 I'm currently learning<br>1. Languages: HTML, CSS, JavaScript, C++, Python <br>2. Frameworks: React, Next.js, Node.js, Express.js<br>3. Databases: PostgresSQL, MongoDB, Oracle<br>🎯 Goals: Contributing to open source projects and creating personal projects that highlight my skills in data analysis, while continuously learning and adapting to new technologies.<br>🎲 Hobbies : Hiking,  Swimming, Photography, Travelling</p>
 
-###
 
-<h2 align="left">I code with C++, Javascript, HTML</h2>
 
 ###
 
